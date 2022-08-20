@@ -12,9 +12,9 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=lazb0&style=flat-square&color=blue" alt="Views counter"/>
-  <h1>Hello there <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="60" alt="Waving hand"/></h1>
+  <h1>Hello there :wave:</h1>
 </div>
 
-## :man_technologist: About Me :
+### :man_technologist: About Me :
 
-My name is Lukáš Alois Zborník and I am Software Developer and Linux enthusiast
+My name is Lukáš Alois Zborník and I am Software Developer :computer: and Linux enthusiast :penguin:
