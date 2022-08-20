@@ -12,5 +12,5 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=lazb0&style=flat-square&color=blue" alt="Views counter"/>
-  <h1>Hello, There <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" alt="Waving hand"/></h1>
+  <h1>Hello, There <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30" alt="Waving hand"/></h1>
 </div>
